@@ -48,7 +48,7 @@
 name: Muh. Rafly Nurramadhan
 role: Fullstack Developer & Information Systems Student
 institution: Universitas Hasanuddin (UNHAS)
-interests: [Software Engineering, Object-Oriented Design, Web Development, Automation]
+interests: [Software Engineering, Object-Oriented Design, Web Development]
 current_focus: Deepening Fullstack Web, Clean Architecture & Algorithmic Problem Solving
 community: Google Developer Groups on Campus (GDGoC UNHAS)
 quote: "Simplicity is prerequisite for reliability."
@@ -108,23 +108,14 @@ quote: "Simplicity is prerequisite for reliability."
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3 align="center"><a href="https://github.com/Raflykunn/pilahki">🌱 Pilahki Eco Platform</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Vue.js-SPA-4FC08D?style=flat-square&logo=vue.js" />
         <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css" />
         <img src="https://img.shields.io/badge/Impact-Environmental-green?style=flat-square" />
       </p>
-      <p>Platform web edukasi pemilahan dan daur ulang sampah yang interaktif dan ramah pengguna, berfokus pada kesadaran lingkungan komunitas dengan antarmuka modern.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Raflykunn/make-group-whatsapp-bot-python">🤖 WhatsApp Group Bot</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/Feature-Bot_Management-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Tool-blueviolet?style=flat-square" />
-      </p>
-      <p>Bot otomasi grup WhatsApp berbasis Python untuk mempermudah pengelolaan pesan, respon otomatis, dan interaksi grup secara terprogram.</p>
+      <p align="center">Platform web edukasi pemilahan dan daur ulang sampah yang interaktif dan ramah pengguna, berfokus pada kesadaran lingkungan komunitas dengan antarmuka modern.</p>
     </td>
   </tr>
 </table>
